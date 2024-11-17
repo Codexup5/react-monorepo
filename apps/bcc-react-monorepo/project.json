@@ -1,0 +1,9 @@
+{
+  "name": "bcc-react-monorepo",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/bcc-react-monorepo/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project bcc-react-monorepo --web",
+  "targets": {}
+}
